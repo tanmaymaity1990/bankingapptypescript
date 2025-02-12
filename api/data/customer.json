@@ -1,0 +1,35 @@
+[
+  {
+    "id": "06879b35-82d3-4287-8a6f-97071b66d858",
+    "name": "Ram Das",
+    "email": "ram@test.com",
+    "phone": "9876543210",
+    "accountNo": 1738091284891,
+    "accountType": "Savings",
+    "amountLimit": 1000,
+    "openingBal": 10000,
+    "created": "29-01-2025"
+  },
+  {
+    "id": "36504fda-078e-429f-b83c-b97c9e0cb8b1",
+    "name": "Nikita Sinha",
+    "email": "nikita@test.com",
+    "phone": "9876543211",
+    "accountNo": 1738091330183,
+    "accountType": "Savings",
+    "amountLimit": 100,
+    "openingBal": 1000,
+    "created": "29-01-2025"
+  },
+  {
+    "id": "048137bd-97a3-42ae-a3a7-a54220601077",
+    "name": "Jenny Mario",
+    "email": "jenny@test.com",
+    "phone": "9876554321",
+    "accountNo": 1739384066874,
+    "accountType": "Savings",
+    "amountLimit": 10000,
+    "openingBal": 100000000,
+    "created": "12-02-2025"
+  }
+]

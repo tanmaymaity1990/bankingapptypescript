@@ -1,0 +1,29 @@
+[
+  {
+    "id": "57fb871d-bf83-47ca-9893-3d27b89faedf",
+    "name": "Jhon Doe",
+    "empID": "EMP0001",
+    "email": "jhon@doe.com",
+    "phone": "9876543210",
+    "password": "$2b$10$JxjiY.YkGQMcQlPl6ghZOezasO04g6/4GVHH3bk2S2tJimwYNlXMa",
+    "created": "26-01-2025"
+  },
+  {
+    "id": "6dbecba7-c461-4587-88ff-cb818c370ef6",
+    "name": "Jhon Doe",
+    "empID": "EMP0002",
+    "email": "jhon1@doe.com",
+    "phone": "9876543211",
+    "password": "$2b$10$gCblDiJSP4VRIw/ZZO4BWemuUNcsvBzSjiA6uvZWkIfyCc.Qk0ECS",
+    "created": "26-01-2025"
+  },
+  {
+    "id": "b4b84f7b-263f-4949-9cbe-7a702e379052",
+    "name": "Shopie Lio",
+    "empID": "EMP003",
+    "email": "test@test.com",
+    "phone": "987654322",
+    "password": "$2b$10$O1pE8YYH1jbFGgzkOtfqKewOKLawKZeKgYfmlaC8Vj/k9GC9I.Z22",
+    "created": "27-01-2025"
+  }
+]
